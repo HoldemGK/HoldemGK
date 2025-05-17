@@ -2,7 +2,10 @@
 
 I'm a Cloud & DevOps Engineer with 8+ years of experience in building robust, secure, and scalable infrastructure ☁️🚀
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex-vasilev&show_icons=true&theme=radical)
+---
+<p align="center">
+  <img src="github-metrics.svg" alt="GitHub Metrics">
+</p>
 
 ## 🔭 I’m currently working on
 - Cloud infrastructure and automation for a **GCP-based financial platform**.
