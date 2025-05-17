@@ -18,7 +18,7 @@ jobs:
 
           user: HoldemGK
           template: terminal
-          base: header, activity, community, repositories
+          base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_timezone: Europe/Warsaw
           config_twemoji: yes
@@ -74,4 +74,3 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: starred
           plugin_topics_sort: stars
-          repositories_forks: yes
