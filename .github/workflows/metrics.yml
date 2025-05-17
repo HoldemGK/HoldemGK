@@ -18,7 +18,7 @@ jobs:
 
           user: HoldemGK
           template: terminal
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           base_indepth: yes
           config_timezone: Europe/Warsaw
           config_twemoji: yes
