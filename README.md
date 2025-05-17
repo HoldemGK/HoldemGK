@@ -4,7 +4,7 @@ I'm a Cloud & DevOps Engineer with 8+ years of experience in building robust, se
 
 ---
 <p align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
 </p>
 
 ## 🔭 I’m currently working on
